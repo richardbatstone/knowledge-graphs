@@ -1,4 +1,3 @@
-from turtle import color
 import streamlit as st
 import json
 from streamlit_agraph import agraph, Node, Edge, Config
